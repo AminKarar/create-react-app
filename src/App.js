@@ -15,7 +15,7 @@ function App() {
         <p>
           TEST!!! mf <code>src/App.js</code> and save to load.
           This is more of a test!
->>>>>>> ca8e865ad422733eef1773118c73fe539a817d41
+
         </p>
         <a
           className="App-link"
