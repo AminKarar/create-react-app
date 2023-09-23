@@ -1,12 +1,6 @@
 import logo from './downloads/york.png';
 import './App.css';
 
-
-
-
-
-
-
 function App() {
   return (
     <div className="App">
@@ -14,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           TEST!!! mf <code>src/App.js</code> and save to load.
+          This is more of a test!
         </p>
         <a
           className="App-link"
